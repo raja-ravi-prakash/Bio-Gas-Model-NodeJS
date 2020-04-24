@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node init.js"
+    "start": "node init.js",
+    "build": "pip install -U scikit-learn"
   },
   "keywords": [],
   "author": "",
